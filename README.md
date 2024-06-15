@@ -1,5 +1,5 @@
-# 711CodeAssessment
-Code assessment testing full stack development experience using Angular and NestJS stack and Pokemon API
+# Pokemon
+full stack development experience using Angular and NestJS stack and Pokemon API
 
 ## Getting Started 
 
