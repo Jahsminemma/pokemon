@@ -16,7 +16,7 @@ This project uses Docker Compose to simplify the development and deployment proc
 1. **Clone the Repository:**
 
 ```bash
-   git clone https://github.com/exquisapp/711-pokemon-api.git
+   git clone https://github.com/Jahsminemma/pokemon.git
 ```
 
 2. **Install Dependencies:**
